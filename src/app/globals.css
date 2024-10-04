@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'IRANYekan';
+    src: url('./fonts/IRANYekanWebBold.woff') format('woff2');
+}
+
+* {
+    font-family: IRANYekan;
+}
+
+@layer components{
+    .footer__heading {
+        @apply text-lg text-white font-black mb-4
+    }
+    .footer__link{
+        @apply text-base text-white hover:text-red-500 cursor-pointer text-opacity-60 mb-3 w-fit transition-all duration-300
+    }
+}
