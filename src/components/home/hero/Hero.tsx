@@ -1,5 +1,6 @@
 import React from 'react';
 import SearchBox from "@/components/helper/SearchBox";
+
 function Hero() {
     return (
         <>

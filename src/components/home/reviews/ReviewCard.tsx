@@ -1,6 +1,5 @@
 import React from 'react';
 import {FaQuoteRight, FaStar} from "react-icons/fa";
-import {IMAGES_MANIFEST} from "next/constants";
 import Image from "next/image";
 
 interface props {

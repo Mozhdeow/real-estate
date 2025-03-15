@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from "next/image";
 import {BiCalendar, BiMessage} from "react-icons/bi";
-import {BsArrowLeft, BsArrowRight} from "react-icons/bs";
+import {BsArrowLeft} from "react-icons/bs";
 
 interface props {
     blog: {
