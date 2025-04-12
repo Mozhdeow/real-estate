@@ -22,9 +22,9 @@ function PropertyCard({property}: props) {
     return (
         <>
             <div className="bg-white overflow-hidden group rounded-lg cursor-pointer shadow-lg">
-                <div className="relative">
+                <div className="relative ">
                     <Image src={property.imageUrl} alt={property.propertyName} width={300} height={300}
-                           className="w-full object-cover group-hover:scale-110 transition-all duration-300"/>
+                           className="w-full h-52 object-cover group-hover:scale-110 transition-all duration-300"/>
                     <h1 className="px-6 absolute bottom-4 text-sm bg-black text-white rounded-lg">
                         <span className="text-base font-bold">{property.price} تومان</span>
                     </h1>

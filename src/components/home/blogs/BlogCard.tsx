@@ -16,9 +16,9 @@ interface props {
 
 function BlogCard({blog}: props) {
     return (
-        <div className="bg-white rounded-md overflow-hidden" dir="rtl">
+        <div className="bg-white rounded-md overflow-hidden h-full" dir="rtl">
             <div>
-                <Image src={blog.image} alt={blog.title} width={300} height={300} className="w-full"/>
+                <Image src={blog.image} alt={blog.title} width={300} height={300} className="w-full h-48 object-cover"/>
                 <div className="p-6">
                     <div className="flex items-center justify-between">
                         <div className="flex items-center gap-2">

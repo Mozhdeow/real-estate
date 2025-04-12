@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     images: {
-        domains: ["s8.uupload.ir"]
+        domains: ["ap.rdcpix.com","www.zillowstatic.com","s8.uupload.ir"]
     }
 };
 

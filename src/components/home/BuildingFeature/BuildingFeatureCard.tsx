@@ -16,7 +16,7 @@ interface props {
 export default function BuildingFeatureCard({building}: props) {
     return (
         <>
-            <Tilt className="rounded-lg shadow-md p-4 bg-white">
+            <Tilt className="rounded-lg shadow-md p-4 bg-white h-60">
                 <div className="w-16 h-16 ml-auto items-center justify-center flex-col bg-gray-100 rounded-full">
                     <Image src={building.image} alt={building.title} width={40} height={40}/>
                 </div>
