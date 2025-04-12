@@ -1,31 +1,31 @@
 export const apartmentTypeData = [
     {
         id: 1,
-        icon: "https://s8.uupload.ir/files/a1_xws8.png",
+        icon: "https://www.svgrepo.com/show/434116/house.svg",
         type: "مسکن",
         number: 12,
     },
     {
         id: 2,
-        icon: "https://s8.uupload.ir/files/a2_g04b.png",
+        icon: "https://www.svgrepo.com/show/421951/apartment-block-building-2.svg",
         type: "آپارتمان",
         number: 22,
     },
     {
         id: 3,
-        icon: "https://s8.uupload.ir/files/a3_76fc.png",
+        icon: "https://www.svgrepo.com/show/217112/apartment.svg",
         type: "اداره کار",
         number: 14,
     },
     {
         id: 4,
-        icon: "https://s8.uupload.ir/files/a4_situ.png",
+        icon: "https://www.svgrepo.com/show/401952/house-with-garden.svg",
         type: "ویلا",
         number: 9,
     },
     {
         id: 5,
-        icon: "https://s8.uupload.ir/files/a5_t2tz.png",
+        icon: "https://www.svgrepo.com/show/277225/apartment.svg",
         type: "خانه شهری",
         number: 12,
     },
