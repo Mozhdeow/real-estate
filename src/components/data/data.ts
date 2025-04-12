@@ -215,7 +215,7 @@ export const userReviewData = [
         id: 2,
         name: "Mike Smith",
         profession: "Property Investor",
-        userImage: "https://s8.uupload.ir/files/u2_g5k.jpg",
+        userImage: "https://www.svgrepo.com/show/446531/avatar.svg",
         review:
             "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است.",
     },
@@ -223,7 +223,7 @@ export const userReviewData = [
         id: 3,
         name: "Alex Johnson",
         profession: "Home Buyer",
-        userImage: "https://s8.uupload.ir/files/u3_0g7y.jpg",
+        userImage: "https://www.svgrepo.com/show/446490/avatar-portrait.svg",
         review:
             "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است",
     },
@@ -231,7 +231,14 @@ export const userReviewData = [
         id: 4,
         name: "Emily Clark",
         profession: "Interior Designer",
-        userImage: "https://s8.uupload.ir/files/u4_okr2.jpg",
+        userImage: "https://www.svgrepo.com/show/446482/avatar.svg",
+        review:
+            "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+    }, {
+        id: 5,
+        name: "Leo Clark",
+        profession: "Interior Designer",
+        userImage: "https://www.svgrepo.com/show/446484/avatar.svg",
         review:
             "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
     },
